@@ -1,0 +1,18 @@
+{
+  "steps": [
+    { "id": 1, "title": "Registration", "description": "Ensure you are registered to vote before the deadline.", "date": "1-3 Months Before" },
+    { "id": 2, "title": "Research Candidates", "description": "Learn about the candidates and their platforms.", "date": "1-2 Months Before" },
+    { "id": 3, "title": "Find Polling Station", "description": "Locate your assigned polling station and check its hours.", "date": "1-2 Weeks Before" },
+    { "id": 4, "title": "Election Day", "description": "Bring valid ID and cast your vote.", "date": "Election Day" }
+  ],
+  "faqs": [
+    { "id": 1, "question": "How do I register to vote?", "answer": "You can register online, by mail, or in person at your local election office." },
+    { "id": 2, "question": "What ID do I need to bring?", "answer": "Requirements vary by state, but commonly accepted forms include a driver's license, passport, or state ID." },
+    { "id": 3, "question": "Can I vote by mail?", "answer": "Yes, most states offer absentee or mail-in voting. You must request a ballot in advance." }
+  ],
+  "timeline": [
+    { "id": 1, "phase": "Pre-Election", "events": ["Voter Registration Deadline", "Early Voting Begins"] },
+    { "id": 2, "phase": "Election Day", "events": ["Polls Open", "Polls Close"] },
+    { "id": 3, "phase": "Post-Election", "events": ["Vote Tallying", "Certification of Results"] }
+  ]
+}
